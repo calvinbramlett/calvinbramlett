@@ -340,16 +340,19 @@ header {
 			padding: 12px;
 			transition: all .3s ease;
 			cursor: pointer;
+
 			@include md {
 				max-width: 50%;
 				min-width: 50%;
 				width: 50%;
 			}
+
 			@include lg {
 				max-width: 33.3%;
 				min-width: 33.3%;
 				width: 33.3%;
 			}
+			
 			img {
 				max-width: 100%;
 				width: 100%;
