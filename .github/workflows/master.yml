@@ -17,7 +17,7 @@ jobs:
         server: glendale.dreamhost.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home/calvinbramlett/calvinbramlett/
+        server-dir: /calvinbramlett/calvinbramlett/
         protocol: ftps
         port: 22
         dry-run: true
