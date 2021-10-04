@@ -21,7 +21,3 @@ jobs:
         protocol: ftps
         port: 22
         dry-run: true
-        exclude:
-          - **/.git*
-          - **/.git*/**
-          - **/node_modules/**
