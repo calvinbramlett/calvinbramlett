@@ -20,4 +20,3 @@ jobs:
         server-dir: /calvinbramlett/calvinbramlett/
         protocol: ftps
         port: 22
-        dry-run: true
